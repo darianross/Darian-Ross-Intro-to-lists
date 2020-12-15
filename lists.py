@@ -8,7 +8,7 @@ print(fav_foods[2])
 
 ### 1) Which food in my list does this line of code output? What does this tell us about where the index position starts?
 
-
+Cheesecake, that tells us it will be in the scond position. 
 
 ###If I want to access multiple items in my list, I can provide a range separated by a colon when I index my list. Uncomment the next line of code to observe
 #print(fave_foods[1:3])
@@ -16,31 +16,31 @@ print(fav_foods[2])
 
 
 ### 2) How many foods in the list did the code on line 14 print? Is this what you expected?
-
+3 foods, yes it was.
 
 
 
 ### 3) A list doesn't need to contain only one type of data. Create a list variable named diff_types that contains different data types (e.g. strings, integers, floats, etc.)
 
-
+#print(diff_types append{1:3}
 
 
 ### You can also create a list of lists!! This is most easily accomplished by creating list variables and then creating a list of those variables.
 ### 4)Create a list variable of some hobbies (e.g. hobbies = ['hobby1', 'hobby2', 'hobby3']) and a list variable of your favorite foods, and then create a list of those two list variables
 ###This is called a nested list (inception of lists!!!)
 
-
+hobbies=['boxing','swimming','martial arts']
 
 
 
 ### 5) Try out the .append() method on one of your lists. (e.g. hobbies.append('basketball'), then print(hobbies). What happened?
-
+It changed the color of the text.
 
 
 
 ### 6) Try out del on an index position in your list (e.g. del hobbies[1]) and then print your list again. What happened?
 
-
+It saved the work in replit, meaning when I started to type it out it was showing up. 
 
 
 
